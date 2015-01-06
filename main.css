@@ -40,7 +40,7 @@ a:hover {
 
 img, .photo_text {
   border-radius: 100%;
-  width: 300px;
+  width: 250px;
   height: auto;
 }
 
@@ -57,6 +57,7 @@ img, .photo_text {
 .photo_box {
   margin-left: 200px;
   margin-top: 50px;
+  margin-right: 150px;
 }
 
 .photos p {
